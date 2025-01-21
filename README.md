@@ -2,5 +2,3 @@
   Belajar diGitHub Dicoding itu seru!
 
 mencoba pull request collaborator
-
-saya tambahkan proses fork untuk mencoba
