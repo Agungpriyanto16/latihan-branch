@@ -1,4 +1,4 @@
 # Ini adalah repository untuk latihan membuat branch baru diGithub.
   Belajar diGitHub Dicoding itu seru!
 
-  bisa ku edit nih
+mencoba pull request collaborator
